@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dncPlay",
+    "slug": "dncPlay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
